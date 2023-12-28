@@ -1,16 +1,13 @@
-# sos_emergency_satellite
+# SOS Emergency Satellite
 
-A new Flutter project.
+This Flutter project is a recreation of Apple's 'SOS Emergency by Satellite' application, focusing exclusively on the visual and design aspect.
+Using the Flutter framework, user interface elements were implemented to reproduce the modern and intuitive aesthetic of the original application. Although it contains no operational functionality, the project highlights Flutter's ability to offer a consistent and attractive user experience, with attention to design detail and responsiveness.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+| Imagem | Descrição |
+|--------|-----------|
+| ![Imagem 1](caminho/da/imagem1.jpg) | Descrição da imagem 1 |
+| ![Imagem 2](caminho/da/imagem2.jpg) | Descrição da imagem 2 |
+| ![Imagem 3](caminho/da/imagem3.jpg) | Descrição da imagem 3 |
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
