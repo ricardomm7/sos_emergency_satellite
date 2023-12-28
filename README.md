@@ -9,5 +9,5 @@ Using the Flutter framework, user interface elements were implemented to reprodu
 |--------|-----------|
 | ![Imagem 1](github_images/Screenshot_1703790857.png) | Ecrã inicial |
 | ![Imagem 2](github_images/Screenshot_1703790864.png) | Ecã de conexão (inacabado) |
-| ![Imagem 3](github_images/imagem3.jpg) | Ainda não disponível |
+| ![Imagem 3](github_images/imagem.jpg) | Ainda não disponível |
 
