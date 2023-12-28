@@ -5,9 +5,9 @@ Using the Flutter framework, user interface elements were implemented to reprodu
 
 ## Screenshots
 
-| Imagem | Descrição |
+| Image | Description |
 |--------|-----------|
-| ![Imagem 1](github_images/Screenshot_1703790857.png) | Ecrã inicial |
-| ![Imagem 2](github_images/Screenshot_1703790864.png) | Ecã de conexão (inacabado) |
-| ![Imagem 3](github_images/imagem.jpg) | Ainda não disponível |
+| ![Imagem 1](github_images/Screenshot_1703790857.png) | Homescreen |
+| ![Imagem 2](github_images/Screenshot_1703790864.png) | Connection Screen (not finished) |
+| ![Imagem 3](github_images/imagem.jpg) | Unavaliable |
 
