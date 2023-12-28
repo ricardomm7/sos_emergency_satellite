@@ -7,7 +7,7 @@ Using the Flutter framework, user interface elements were implemented to reprodu
 
 | Imagem | Descrição |
 |--------|-----------|
-| ![Imagem 1](caminho/da/imagem1.jpg) | Descrição da imagem 1 |
-| ![Imagem 2](caminho/da/imagem2.jpg) | Descrição da imagem 2 |
-| ![Imagem 3](caminho/da/imagem3.jpg) | Descrição da imagem 3 |
+| ![Imagem 1](github_images/Screenshot_1703790857.png) | Ecrã inicial |
+| ![Imagem 2](github_images/Screenshot_1703790864.png) | Ecã de conexão (inacabado) |
+| ![Imagem 3](github_images/imagem3.jpg) | Ainda não disponível |
 
