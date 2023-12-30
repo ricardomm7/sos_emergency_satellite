@@ -7,7 +7,7 @@ Using the Flutter framework, user interface elements were implemented to reprodu
 
 | Image | Description |
 |--------|-----------|
-| ![Imagem 1](github_images/Screenshot_1703939732) | Homescreen |
+| ![Imagem 1](github_images/Screenshot_1703939732.png) | Homescreen |
 | ![Imagem 2](github_images/Screenshot_1703939738.png) | Connection Screen (not finished) |
 | ![Imagem 3](github_images/imagem.jpg) | Unavaliable |
 
