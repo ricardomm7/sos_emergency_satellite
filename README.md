@@ -5,10 +5,7 @@ Using the Flutter framework, user interface elements were implemented to reprodu
 
 ## Screenshots
 
-| Image | Description |
+| Homescreen | Connection Screen (not finished) |
 |--------|-------------|
-| <img src="github_images/Screenshot_1703939732.png" width="200"> | Homescreen |
-| <img src="github_images/Screenshot_1703939738.png" width="200"> | Connection Screen (not finished) |
-| <img src="github_images/imagem.jpg" width="200"> | Unavailable |
-
+| <img src="github_images/Screenshot_1703939732.png" width="250"> | <img src="github_images/Screenshot_1703939738.png" width="250"> |
 
