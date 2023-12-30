@@ -64,19 +64,19 @@ class EmergencySOSScreen extends StatelessWidget {
                 );
               },
               style: ElevatedButton.styleFrom(
-                primary: const Color(0xFF2CD358),
+                primary: const Color(0xff34C759),
                 shape: RoundedRectangleBorder(
-                  borderRadius: BorderRadius.circular(15),
+                  borderRadius: BorderRadius.circular(1000),
                 ),
               ),
               child: Container(
                 width: double.infinity,
-                height: 50,
+                height: 60,
                 child: Center(
                   child: Text(
                     'Report Emergency',
                     style: TextStyle(
-                      fontSize: 15,
+                      fontSize: 18,
                       color: Colors.white,
                       fontWeight: FontWeight.bold,
                     ),
