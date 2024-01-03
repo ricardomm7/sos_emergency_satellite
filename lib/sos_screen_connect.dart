@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:sos_emergency_satellite/sos_screen.dart';
-
+import 'package:sos_emergency_satellite/chat_sos.dart';
 
 class EmergencySOSScreenConnect extends StatelessWidget {
   @override
@@ -80,7 +80,7 @@ class EmergencySOSScreenConnect extends StatelessWidget {
                   ),
                   textAlign: TextAlign.center,
                 ),
-                 SizedBox(height: 50)
+                SizedBox(height: 50)
               ],
             ),
           ),
@@ -94,7 +94,12 @@ class EmergencySOSScreenConnect extends StatelessWidget {
             SizedBox(height: 5),
             ElevatedButton(
               onPressed: () {
-                //do
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                    builder: (context) => ChatScreen(),
+                  ),
+                );
               },
               style: ElevatedButton.styleFrom(
                 primary: const Color(0xFF0C3015),
